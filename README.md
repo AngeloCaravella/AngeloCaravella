@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AngeloCaravella 
-- 👀 I’m interested in ...artificial intelligence and robotics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...reinforcement learning and automatic control 
+- 🌱 I’m currently learning ... V2G  
 - 📫 How to reach me ...angelocaravella29@gmail.com
 
 <!---
